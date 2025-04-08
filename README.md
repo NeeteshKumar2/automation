@@ -1,2 +1,2 @@
 # automation
-Using pipeline doing automation
+Using pipeline perform automation
